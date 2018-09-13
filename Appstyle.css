@@ -1,0 +1,131 @@
+body{
+	background-color: #D3D3D3;
+	margin: 0 auto;
+}
+
+.caja{
+	
+	background-color: white;
+	height: 500px;
+	width: 400px;
+
+}
+
+.arriba{
+	background-color: #F43F44;
+	margin: 0  ;
+	padding-top: 10px; 
+	padding-bottom: 10px;
+	width: 400px;
+
+}
+.imagen_lista{
+	margin: 0 auto;
+	width: 30px;
+	padding: 5px; 
+	padding-left: 20px;
+
+}
+
+.imagen_basura{
+	margin: 0 auto;
+	width: 30px;
+	padding: 5px; 
+	padding-left: 10px;
+}
+
+.imagen_usuario{
+	margin: 0 auto;
+	width: 30px;
+	padding: 5px; 
+	padding-left: 250px;
+}
+
+
+.caja_email{
+	
+	padding:5px;
+	margin-top: 20px;
+	width: 300px;
+	height: 60px;
+	margin-left: 40px;
+}
+
+.caja_email label{
+	margin: 0 auto;
+	font-size: 20px;
+	padding: 10px; 
+	text-align: center;
+
+}
+
+.caja_email img{
+	background-color: #CC3438;
+	width: 30px;
+	padding: 10px;
+}
+
+.caja_chat{
+	padding:5px;
+	margin-top: 20px;
+	width: 300px;
+	height: 60px;
+	margin-left: 40px;
+}
+
+.caja_chat img{
+	background-color: #CC3438;
+	width: 30px;
+	padding: 10px;
+}
+
+.caja_chat label{
+	margin: 0 auto;
+	font-size: 20px;
+	padding: 10px; 
+	text-align: center;
+}
+
+.caja_search{
+	padding:5px;
+	margin-top: 20px;
+	width: 300px;
+	height: 60px;
+	margin-left: 40px;
+}
+
+.caja_search img{
+	background-color: #CC3438;
+	width: 30px;
+	padding: 10px;
+}
+
+.caja_search label{
+	margin: 0 auto;
+	font-size: 20px;
+	padding: 10px; 
+	text-align: center;
+}
+
+.caja_musica{
+	padding:5px;
+	margin-top: 20px;
+	width: 300px;
+	height: 60px;
+	margin-left: 40px;
+}
+
+.caja_musica img{
+	background-color: #CC3438;
+	width: 30px;
+	padding: 10px;
+}
+
+.caja_musica label {
+	margin: 0 auto;
+	font-size: 20px;
+	padding: 10px; 
+	text-align: center;
+}
+
+
